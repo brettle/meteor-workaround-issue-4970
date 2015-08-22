@@ -17,6 +17,6 @@ Just install it and it should work.
 
 ## How it Works
 
-It registers an `onLogin` handler that remembers the current current value of
+It registers an `onLogin` handler that remembers the current value of
 `Accounts.connection.onReconnect` and an `onLoginFailure` handler that restores
 it after `Accounts.callLoginMethod()` erroneously sets it to `null`.

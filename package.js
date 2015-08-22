@@ -2,10 +2,10 @@
 
 Package.describe({
   name: 'brettle:workaround-issue-4970',
-  version: '0.0.1',
+  version: '0.0.3',
   summary:
     'Workaround Meteor issue 4970 - login fail breaks auto-login on reconnect.',
-  git: 'https://github.com/brettle/meteor-workaround-issue-4970',
+  git: 'https://github.com/brettle/meteor-workaround-issue-4970.git',
   documentation: 'README.md'
 });
 
