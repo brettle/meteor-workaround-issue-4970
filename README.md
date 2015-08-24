@@ -1,6 +1,6 @@
 # brettle:workaround-issue-4970
 
-[![Build Status](https://travis-ci.org/brettle/meteor-accounts-workaround-issue-4970.svg?branch=master)](https://travis-ci.org/brettle/meteor-accounts-workaround-issue-4970)
+[![Build Status](https://travis-ci.org/brettle/meteor-workaround-issue-4970.svg?branch=master)](https://travis-ci.org/brettle/meteor-workaround-issue-4970)
 
 Workaround [Meteor issue #4970](https://github.com/meteor/meteor/issues/4970) so
 that a logged in user failing to login will not break auto-login on reconnect.
